@@ -9,13 +9,13 @@ Third component is the website built in html, css and javascript that allows use
 
 During model building it covered almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. Technology and tools wise this project covers,
 
-Python
-Numpy and Pandas for data cleaning
-Matplotlib for data visualization
-Sklearn for model building
-Jupyter notebook, visual studio code and pycharm as IDE
-Python flask for http server
-HTML/CSS/Javascript for UI
+1. Python
+2. Numpy and Pandas for data cleaning
+3. Matplotlib for data visualization
+4. Sklearn for model building
+5. Jupyter notebook, visual studio code and pycharm as IDE
+6. Python flask for http server
+7. HTML/CSS/Javascript for UI
 
 # Steps to run the website locally
 1. Download the `BangloreHousePrices` folder in your `C:\\` drive
