@@ -15,7 +15,7 @@ During model building it covered almost all data science concepts such as data l
 4. Sklearn for model building
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
-7. HTML/CSS/Javascript for UI
+7. HTML and CSS for UI
 
 # Steps to run the website locally
 1. Download the `BangloreHousePrices` folder in your `C:\\` drive
